@@ -15,7 +15,7 @@ cd mgp_prediction
 conda env create -f environment.yaml
 source activate MGPprediction
 ```
-which should inistall in about 2 minutes.
+which should install in about 2 minutes.
 
 ---
 ### Implementation
@@ -30,9 +30,9 @@ which should inistall in about 2 minutes.
 	```
     The output file "predictedMGPs.csv" will be generated in output directory after computation.
     
-    Run time for this source coude on example input is about 90 seconds.
+    The run time for this source code on example input is about 90 seconds.
     
-3. The output file is .csv format and consists of four columns (i.e., Target gene, Target metabolite and its MetaNetX ID, and Target pathway) which represent information of predicted MGPs.
+3. The output file is in .csv format and consists of four columns (i.e., Target gene, Target metabolite and its MetaNetX ID, and Target pathway) which represent information of predicted MGPs.
 
 ---
 ### Reference
