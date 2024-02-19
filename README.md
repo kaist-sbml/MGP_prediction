@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/759876672.svg)](https://zenodo.org/doi/10.5281/zenodo.10680305)
+
 # MGP prediction #
 
 ### How to install
