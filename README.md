@@ -38,5 +38,5 @@ which should install in about 2 minutes.
 
 ---
 ### Reference
-Publication will be added here.
+Lee, G., Lee, S.M., Lee, S. et al. Prediction of metabolites associated with somatic mutations in cancers by using genome-scale metabolic models and mutation data. Genome Biol 25, 66 (2024). https://doi.org/10.1186/s13059-024-03208-8
 
